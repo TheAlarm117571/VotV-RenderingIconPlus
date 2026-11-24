@@ -1,0 +1,9 @@
+{
+    "name": "RenderingIconPlus",
+    "version_number": "1.0.6",
+    "website_url": "https://github.com/TheAlarm117571/VotV-RenderingIconPlus",
+    "description": "For players who change mods often: keeps VotV's own item icons cached, so installing, removing or updating a mod only renders the modded icons instead of every icon again. Works on VotV 0.9 and 0.10.",
+    "dependencies": [
+        "Thunderstore-unreal_shimloader-1.1.7"
+    ]
+}
